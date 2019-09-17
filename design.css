@@ -53,11 +53,24 @@ body{
     width: 100%;
     padding-top: 15vh;
 }
+.body4{
+    background-image: url("stadkarta.jpg");
+}
 .header {
     background-color: beige;
     color: darkred;
     height: 15vh;
     width: 100%;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+    font-size: 25px;
+    text-shadow: 2px 4px darkblue;
+}
+.header4{
+    background-color:none;
+    color: darkred;
+    height: none;
+    width: none;
     text-align: center;
     font-family: 'Audiowide', cursive;
     font-size: 25px;
@@ -142,8 +155,18 @@ body{
      font-size: 25px;
      float:  right;
      margin: 150px;
-     
-   
+      
+}
+.ruta8{
+    width: 220px;
+    border: 3px solid;
+     height: 40px;
+     background-color:none;
+     color: darkred;
+     font-size: 25px;
+     float:  right;
+     margin: 150px;
+    
 }
 
 .label{
@@ -202,4 +225,7 @@ color: darkblue;
 }
 .submit1{
     font-size: 16px;
+}
+.bild{
+    
 }
