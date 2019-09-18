@@ -4,6 +4,9 @@ body{
     background-size: 100%;
     
 }
+.body5{
+    background-image: url("telefon.jpg");
+}
 .meny a{
     display: inline;
     text-decoration: none;
@@ -11,7 +14,7 @@ body{
     text-align: left;
     font-family: 'Teko', sans-serif;
     background-color: none;
-    color: white;
+    color:beige;
     padding-top: 35px;
     padding-right: 25px;
     float: left;
@@ -76,6 +79,18 @@ body{
     font-size: 25px;
     text-shadow: 2px 4px darkblue;
 }
+.header5{
+    background-image: none;
+    background-color:none;
+    color: darkred;
+    height: none;
+    width: none;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+    font-size: 25px;
+    text-shadow: 2px 4px darkblue;
+}
+
 .ruta1 {
     width: 250px;
     padding: 25px;
@@ -158,14 +173,27 @@ body{
       
 }
 .ruta8{
-    width: 220px;
+    width: 340px;
     border: 3px solid;
-     height: 40px;
-     background-color:none;
+     
+     background-color:beige;
      color: darkred;
-     font-size: 25px;
+     font-size: 20px;
      float:  right;
      margin: 150px;
+    
+}
+.ruta9{
+    width: 380px;
+    border: 3px solid;
+     
+     background-color:beige;
+     color: darkred;
+     font-size: 20px;
+     float:  right;
+     margin: 40px;
+     margin-top: 150px;
+     
     
 }
 
@@ -225,6 +253,11 @@ color: darkblue;
 }
 .submit1{
     font-size: 16px;
+}
+.submit2{
+    font-size: 25px;
+    float: right;
+    margin-top: 120px;
 }
 .bild{
     
